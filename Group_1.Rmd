@@ -1,6 +1,6 @@
 ---
 title: "Homework 4"
-author: "Joseph Lynch and Anand Taxali"
+author: "Joseph Lynch"
 date: "6/6/2020"
 output: html_document
 ---
